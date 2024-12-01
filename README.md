@@ -43,6 +43,7 @@ This tutorial outlines the prerequisites and installation steps for configuring 
 3. Set time target to 30 minutes.
 4. Set the start and stop conditions based on the workflow.
 &nbsp;
+
 ![New SLA Name](https://i.imgur.com/BCVXZdk.png/600x300)
 ![New SLA Page](https://i.imgur.com/MBjn9u1.png/600x300)
 ![Add Rules](https://i.imgur.com/6VAoNgt.png/600x300)
