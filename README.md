@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://via.placeholder.com/800x300" height="40%" width="60%" alt="Jira SLA"/>
+<img src="https://i.imgur.com/ygYqvUA.jpeg/800x300" height="40%" width="60%" alt="Jira SLA"/>
 </p>
 
 # Creating an SLA in Jira
@@ -8,7 +8,6 @@
 
 This tutorial outlines the prerequisites and installation steps for configuring an SLA (Service Level Agreement) in **Jira Service Management**.
 
----
 
 ## Environments and Technologies Used
 -  **Jira Service Management Cloud**
@@ -31,6 +30,7 @@ This tutorial outlines the prerequisites and installation steps for configuring 
 1. Log in to your Jira account.
 2. Navigate to your Service Management project.
 3. Go to **Project Settings > SLAs**.
+4. Click **SLAs**.
 &nbsp;
 
 ![Add SLA Rule](https://i.imgur.com/jSBuMJR.png/600x300)
@@ -38,11 +38,10 @@ This tutorial outlines the prerequisites and installation steps for configuring 
 ![Configure SLA Goals](https://i.imgur.com/arfZl9V.png/600x300)
 
 ### Step 2: Create a New SLA
-1. Click **SLAs**.
-2. Create a **Name** for our SLA  `High Priority SLA` .
-3. Define time to first response.
-4. Set time target to 30 minutes.
-5. Set the start and stop conditions based on the workflow.
+1. Create a **Name** for our SLA  `High Priority SLA` .
+2. Define time to first response.
+3. Set time target to 30 minutes.
+4. Set the start and stop conditions based on the workflow.
 &nbsp;
 ![New SLA Name](https://i.imgur.com/BCVXZdk.png/600x300)
 ![New SLA Page](https://i.imgur.com/MBjn9u1.png/600x300)
@@ -77,4 +76,3 @@ A: Use Jira automation to notify team members or escalate tickets.
 ## Conclusion
 🎉 You’ve successfully set up SLAs in Jira Service Management to monitor and improve service performance! 🎉
 
----
